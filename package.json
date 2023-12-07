@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.5.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "airpro",
+  "description": "![image](https://github.com/nayakkrmanish/AirPro/assets/131751286/64deebf7-9b03-4c80-99ea-7b0bf73e25df)",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Sandeep Sharma",
+  "license": "ISC"
+}
